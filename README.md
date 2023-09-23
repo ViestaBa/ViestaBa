@@ -10,7 +10,10 @@
 </br>
 <div align="center">
   🔭 I'm working on my technical skills improvement
+  
   📚 I'm constantly learning new things
+  
   🕒 I often get lost in time working on interesting projects
+  
   🌱 I hope this could be my safe place for professional growth
 </div>
