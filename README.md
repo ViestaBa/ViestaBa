@@ -5,9 +5,9 @@
   </a>
 </h1>
 
-<h3 align="center">I'm an aspiring data scientist <h3>
+<h3 align="center">I'm an aspiring data scientist </h3>
 
-</br>
+<br/>
 <div align="center">
   🔭 I'm working on my technical skills improvement
   
