@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3 align="center">I'm an aspiring data scientist </h3>
+<h3 align="center">I'm an aspiring data engineer </h3>
 
 <br/>
 <div align="center">
